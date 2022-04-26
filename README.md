@@ -14,4 +14,17 @@ SHIFT + 鼠标拖动     等比例形状
 SHIFT + 旋转         每次15°旋转
 
 CTRL + SHIFT + C/V    复制格式
+
+CTRL +[  字体放大
+CTRL + ] 字体缩小
+CTRL +B 增粗 
+CTRL +I 下划线
+CTRL +U 斜体
+CTRL + E 居中
+CTRL + R 居左
+CTRL + L 居右
+
+
+ALT + N + X + H  插入文字
+ALT + N + P + D  插入图片
 ```
