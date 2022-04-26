@@ -21,8 +21,8 @@ CTRL +B 增粗
 CTRL +I 下划线
 CTRL +U 斜体
 CTRL + E 居中
-CTRL + R 居左
-CTRL + L 居右
+CTRL + L 居左
+CTRL + R 居右
 
 
 ALT + N + X + H  插入文字
