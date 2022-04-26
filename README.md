@@ -18,8 +18,8 @@ CTRL + SHIFT + C/V    复制格式
 CTRL +[  字体放大
 CTRL + ] 字体缩小
 CTRL +B 增粗 
-CTRL +I 下划线
-CTRL +U 斜体
+CTRL +I 斜体
+CTRL +U 下划线
 CTRL + E 居中
 CTRL + L 居左
 CTRL + R 居右
