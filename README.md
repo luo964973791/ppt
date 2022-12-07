@@ -15,6 +15,7 @@ SHIFT + 旋转         每次15°旋转
 SHIFT + F5           页面全屏
 SHIFT不放            画正方形
 
+CTRL + SHIFT 快速横竖复制 + F4  快速复制横竖间距一样的东西
 CTRL + SHIFT + C/V    复制格式
 
 CTRL +[  字体放大
