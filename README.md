@@ -1,6 +1,8 @@
 ### islide相关模板
 ```javascript
 PPT快捷键
+Fn + F5  全屏
+Fn + Shift + F5 当前页面全屏
 CTRL +鼠标滚轮放大缩小
 CTRL + D    快速复制相同间距的图标
 CTRL + M    新建页面
